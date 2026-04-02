@@ -1,5 +1,7 @@
 # Skills-repo
 
+[中文文档](./README-zh.md) | English
+
 Store popular open-source AI Skills & my original self-developed custom Skills, including prompt skills, agent workflow skills, multi-modal practical skills and iterative optimized case archives.
 
 ## Overview
